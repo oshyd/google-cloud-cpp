@@ -5,6 +5,7 @@ on:
   # that much, start with a time that allows for easier troubleshooting.
   push:
 
+
 jobs:
   analyze:
     name: Analyze
